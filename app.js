@@ -46,7 +46,7 @@ app.use("/api/signup", signupRoute);
 app.use("/api/login", loginRoute);
 
 // utils or plugin for adding collections to the database;
-// const dbUpdate = require("./utils/DB");
+// const dbUpdate = require("./utils/DB")
 // dbUpdate();
 /**
  * for app production
