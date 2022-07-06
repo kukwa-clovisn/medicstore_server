@@ -1,5 +1,11 @@
 # MEDICSTORE
 
+# NB
+
+```
+project built and deployed on heroku.
+```
+
 ## Project setup
 
 ```
